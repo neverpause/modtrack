@@ -1,0 +1,57 @@
+.modtrack-container {
+    position: absolute;
+    right: -200px;
+    top: 0px;
+    width: 200px;
+    height: 100%;
+    overflow: hidden;
+    border-left: 1px solid #878c8e;
+    border-radius: 0 1rem 1rem 0;
+    background-color: rgba(0, 0, 0, .7);
+}
+
+.modtrack-container h2 {
+    margin: 0;
+    padding: .95rem 0;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 700;
+    border-bottom: 1px solid #878c8e;
+}
+
+.modtrack-container .menu-container {
+    position: relative;
+    width: inherit;
+    height: calc(100% - 2.9rem);
+    padding: 1rem 0;
+    overflow: hidden;
+}
+
+.menu-container h3 {
+    margin: 0;
+    margin-bottom: .5rem;
+    padding: 0 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.menu-container button {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 0;
+    font-size: 0.9rem;
+    border: none;
+    background: none;
+}
+
+.menu-container button:hover {
+    cursor: pointer;
+}
+
+.menu-container button:active {
+    border: none;
+}
+
+.right_section {
+    border-radius: 1rem 0 0 1rem !important;
+}
