@@ -217,7 +217,7 @@
             }
 
             self.init = function () {
-                $('head').append('<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/Chr0nX/Modtrack/v0.3-fixed/modtrack.css" />');
+                $('head').append('<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/neverpause/modtrack/45dd3182/modtrack.css" />');
                 buildUI().appendTo('#main-room .right_section');
             };
 
