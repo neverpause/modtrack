@@ -23,19 +23,19 @@
                 stream_starting: '@djs *Stream is starting* :laceno: Queue songs at your own risk of getting skipped/removed. ~Nightcore/Nightstep, AMVs and songs that are too chill will be removed from the queue!~',
                 stream_ending: '@djs The *stream is ending* :pogchamp: now, please stick to ~off stream rules for songs~. The queue will be purged in a few minutes. :seemsgood:',
                 song_rules: {
-                    off_stream: '> *RULES for songs (off stream)*: ~EDM | Trap | Chill~, No NSFW, No ear rape, No Hardstyle, ~No Nightcore/Nightstep~, ~No AMVs~, No troll songs, ~Only English~, ~No same songs within 4 hours~',
-                    on_stream: '> *RULES for songs (on stream)*: No NSFW, No ear rape, No Hardstyle, ~No Nightcore/Nightstep~, ~No AMVs~'
+                    off_stream: ' *RULES for songs (off stream)*: ~EDM | Trap | Chill~, No NSFW, No ear rape, No Hardstyle, ~No Nightcore/Nightstep~, ~No AMVs~, No troll songs, ~Only English~, ~No same songs within 4 hours~',
+                    on_stream: ' *RULES for songs (on stream)*: No NSFW, No ear rape, No Hardstyle, ~No Nightcore/Nightstep~, ~No AMVs~'
                 },
-                queue_locked: '> *The queue is locked now*, so ~only Resident DJs and above~ can play songs. It\'s probably locked because Rabia wasn\'t happy with the music.',
+                queue_locked: ' *The queue is locked now*, so ~only Resident DJs and above~ can play songs. It\'s probably locked because Rabia wasn\'t happy with the music.',
                 sub_sunday: 'It\'s *Resident-dj Sunday* :mioshype: Queue will be locked as long as stream is live.',
                 read_rules: 'Rules: https://git.io/vWJnY ',
                 language: 'Keep the chat in English. You can PM users if you wanna speak another language. ',
                 no_spam: 'Don\'t spam the chat or you will be muted. ',
-                skips_explained: '> We don\'t ask for *skips* in this room. Songs get skipped at a certain ~downvote threshold~ (off stream). Just mute if you don\'t wanna listen to it.',
-                props_explained: '> *Props* can be given to the current DJ via the `!props` command (one per song). You can join the occasional roulette and brag with them.',
-                dubs_explained: '>  You get *Dubs* by playing songs and voting on songs. At 10.000 Dubs you\'ll become Resident DJ in this room.',
-                dubplus: '> *Dub+* adds some useful features to Dubtrack. Get it at http://dub.plus Tutorial: https://git.io/vyd7r',
-                gde: '> *gde* adds ~emotes~ to Dubtrack (even more than Dub+ does). Get it at https://gde.netux.ml/ Tutorial: https://git.io/vyd4p',
+                skips_explained: ' We don\'t ask for *skips* in this room. Songs get skipped at a certain ~downvote threshold~ (off stream). Just mute if you don\'t wanna listen to it.',
+                props_explained: ' *Props* can be given to the current DJ via the `!props` command (one per song). You can join the occasional roulette and brag with them.',
+                dubs_explained: '  You get *Dubs* by playing songs and voting on songs. At 10.000 Dubs you\'ll become Resident DJ in this room.',
+                dubplus: ' *Dub+* adds some useful features to Dubtrack. Get it at http://dub.plus Tutorial: https://git.io/vyd7r',
+                gde: ' *gde* adds ~emotes~ to Dubtrack (even more than Dub+ does). Get it at https://gde.netux.ml/ Tutorial: https://git.io/vyd4p',
                 roulette_open: '@djs Roulette is open now :lacehype: Type `!join` for a chance of a random spot in the queue!'
             }
         };
