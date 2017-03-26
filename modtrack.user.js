@@ -27,7 +27,7 @@
                     on_stream: ' *RULES for songs (on stream)*: No NSFW, No ear rape, No Hardstyle, ~No Nightcore/Nightstep~, ~No AMVs~'
                 },
                 queue_locked: ' *The queue is locked now*, so ~only Resident DJs and above~ can play songs. It\'s probably locked because Rabia wasn\'t happy with the music.',
-                sub_sunday: 'It\'s *Resident-dj Sunday* :mioshype: Queue will be locked as long as stream is live.',
+                sub_sunday: 'It\'s *Resident-dj Sunday* :miohype: Queue will be locked as long as stream is live.',
                 read_rules: 'Rules: https://git.io/vWJnY ',
                 language: 'Keep the chat in English. You can PM users if you wanna speak another language. ',
                 no_spam: 'Don\'t spam the chat or you will be muted. ',
