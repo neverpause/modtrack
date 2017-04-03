@@ -186,7 +186,7 @@
 
         function safeHistoryCheck () {
             var songInfo = Dubtrack.room.player.activeSong.get('songInfo');
-            chatMessage('!history ' + songInfo.fkid + ' **', true, true);
+            chatMessage('!history ' + songInfo.fkid + ' ', true, true);
         }
 
         self.executeCommand = function (groupIndex, elementIndex) {
